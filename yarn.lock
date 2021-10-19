@@ -1558,8 +1558,8 @@ verror@1.10.0:
     extsprintf "^1.2.0"
 
 vm2@^3.8.2:
-  version "3.8.4"
-  resolved "https://registry.yarnpkg.com/vm2/-/vm2-3.8.4.tgz#882be9135467942d84d1af80b6e6549b57c69041"
+  version "3.9.5"
+  resolved "https://registry.yarnpkg.com/vm2/-/vm2-3.9.5.tgz#5288044860b4bbace443101fcd3bddb2a0aa2496"
 
 wkx@^0.4.1, wkx@^0.4.8:
   version "0.4.8"
